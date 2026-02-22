@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01 Solid Principles/01 Solid Principles.iml" filepath="$PROJECT_DIR$/01 Solid Principles/01 Solid Principles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Adapter Design Pattern/Adapter Design Pattern.iml" filepath="$PROJECT_DIR$/Adapter Design Pattern/Adapter Design Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bridge Design Pattern/Bridge Design Pattern.iml" filepath="$PROJECT_DIR$/Bridge Design Pattern/Bridge Design Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chain of Responsibility Pattern/Chain of Responsibility Pattern.iml" filepath="$PROJECT_DIR$/Chain of Responsibility Pattern/Chain of Responsibility Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Command Design Pattern/Command Design Pattern.iml" filepath="$PROJECT_DIR$/Command Design Pattern/Command Design Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Composite Design/Composite Design.iml" filepath="$PROJECT_DIR$/Composite Design/Composite Design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dating App/Dating App.iml" filepath="$PROJECT_DIR$/Dating App/Dating App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Decorator Design Pattern/Decorator Design Pattern.iml" filepath="$PROJECT_DIR$/Decorator Design Pattern/Decorator Design Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Discount Coupon System/Discount Coupon System.iml" filepath="$PROJECT_DIR$/Discount Coupon System/Discount Coupon System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Facade Design Pattern/Facade Design Pattern.iml" filepath="$PROJECT_DIR$/Facade Design Pattern/Facade Design Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Factory Design Pattern/Factory Design Pattern.iml" filepath="$PROJECT_DIR$/Factory Design Pattern/Factory Design Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inventory Mangement - Blinkit - Zepto/Inventory Mangement - Blinkit - Zepto.iml" filepath="$PROJECT_DIR$/Inventory Mangement - Blinkit - Zepto/Inventory Mangement - Blinkit - Zepto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Notification Engine/Notification Engine.iml" filepath="$PROJECT_DIR$/Notification Engine/Notification Engine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Observer Design Pattern/Observer Design Pattern.iml" filepath="$PROJECT_DIR$/Observer Design Pattern/Observer Design Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Payment Gateway System/Payment Gateway System.iml" filepath="$PROJECT_DIR$/Payment Gateway System/Payment Gateway System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proxy Desing Pattern/Proxy Desing Pattern.iml" filepath="$PROJECT_DIR$/Proxy Desing Pattern/Proxy Desing Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Singleton Design Pattern/Singleton Design Pattern.iml" filepath="$PROJECT_DIR$/Singleton Design Pattern/Singleton Design Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy Design Pattern/Strategy Design Pattern.iml" filepath="$PROJECT_DIR$/Strategy Design Pattern/Strategy Design Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/System Design.iml" filepath="$PROJECT_DIR$/.idea/System Design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Template Method Pattern/Template Method Pattern.iml" filepath="$PROJECT_DIR$/Template Method Pattern/Template Method Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zomato Design/Zomato Design.iml" filepath="$PROJECT_DIR$/Zomato Design/Zomato Design.iml" />
+    </modules>
+  </component>
+</project>
